@@ -14,3 +14,8 @@ Cosas que me costaron mucho hacer: cambiar de la pagina 1, a la pagina 2 y asi s
 Si bien no es el scrap perfecto ni de cerca, me diverti muchisimo haciendolo y me encantaria aprender mas sobre el tema.
 
 Saludos y muchisimas gracias por esta oportunidad!
+
+
+EL COMANDO PARA EJECUTAR EL SCRIPT ES:
+
+scrapy runspider movies.py -o movies.csv
